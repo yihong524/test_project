@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0c608051-837a-4072-9682-6c65af523e22" name="192.168.203.39" url="http://192.168.203.39">
+        <fileTransfer host="192.168.203.39" port="22" rootFolder="/oriental/tomcat-tv-index/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
